@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-import Practica2_SergioRomero
+import practica2_SergioRomero
 
 Lista_gastomensual = [-9, -16, -90, -70]
 Lista_mes_ahorro = [-4, 89, -7, 78]
